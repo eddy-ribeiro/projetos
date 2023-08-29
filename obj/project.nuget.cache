@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iwKulUc/3RbswQwL4DnaxUQEBRyw2uCbtaAA9QxH3h8DE5P3ISIwYOLARqYK9865fIWpm3bJzvjCncZEC7GzBQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Eddy\\Documents\\Projetos Csharp\\SWD4CS-main\\SWD4CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
