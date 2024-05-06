@@ -13,3 +13,18 @@ c:\Users\Eddy\Documents\Projetos Csharp\SWD4CS-main\obj\Debug\net6.0-windows\ref
 c:\Users\Eddy\Documents\Projetos Csharp\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.pdb
 c:\Users\Eddy\Documents\Projetos Csharp\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.genruntimeconfig.cache
 c:\Users\Eddy\Documents\Projetos Csharp\SWD4CS-main\obj\Debug\net6.0-windows\ref\SWD4CS.dll
+C:\Users\Eddy\Documents\MeusProjetos\projetos\bin\Debug\net6.0-windows\SWD4CS.exe
+C:\Users\Eddy\Documents\MeusProjetos\projetos\bin\Debug\net6.0-windows\SWD4CS.deps.json
+C:\Users\Eddy\Documents\MeusProjetos\projetos\bin\Debug\net6.0-windows\SWD4CS.runtimeconfig.json
+C:\Users\Eddy\Documents\MeusProjetos\projetos\bin\Debug\net6.0-windows\SWD4CS.dll
+C:\Users\Eddy\Documents\MeusProjetos\projetos\bin\Debug\net6.0-windows\SWD4CS.pdb
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.AssemblyInfoInputs.cache
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.AssemblyInfo.cs
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.csproj.CoreCompileInputs.cache
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.sourcelink.json
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.dll
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\refint\SWD4CS.dll
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.pdb
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\SWD4CS.genruntimeconfig.cache
+C:\Users\Eddy\Documents\MeusProjetos\projetos\obj\Debug\net6.0-windows\ref\SWD4CS.dll
